@@ -4,6 +4,7 @@ html {
 }
 .header{
   background-image: url("./the-flatiron-building.png");
+  background-position: center;
 
 }
 h1 {
