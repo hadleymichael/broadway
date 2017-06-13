@@ -3,7 +3,8 @@ html {
   text-align: center;
 }
 .header {
-  background-image: url ("./images/the-flatiron-building.png");
+  background-image: url ("./the-flatiron-building.png");
+
 }
 h1 {
   font-size: 70px;
